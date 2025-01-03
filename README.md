@@ -1,50 +1,24 @@
-# Welcome to your Expo app 👋
+# React Native FullStack Demo App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is a demo application built using **Expo React Native**, **TypeScript**, **Appwrite**, and **NativeWind**. The project demonstrates seamless integration of these technologies to create a robust and visually appealing mobile application.
 
-## Get started
+## Features
 
-1. Install dependencies
+- **Expo**: Rapid prototyping and development with React Native.
+- **TypeScript**: Enhanced development experience with static typing.
+- **Appwrite**: Backend as a Service (BaaS) for user authentication and data management.
+- **NativeWind**: Utility-first styling for consistent and responsive UI design.
 
-   ```bash
-   npm install
-   ```
+## Screenshots
 
-2. Start the app
+| Login | Home | Explore |
+|-------|------|---------|
+| ![Login](https://github.com/KintheN-git/react-native-full-stack-demo-app/blob/master/Screenshot_1735897962.png?raw=true) | ![Home](https://github.com/KintheN-git/react-native-full-stack-demo-app/blob/master/Screenshot_1735897943.png?raw=true) | ![Explore](https://github.com/KintheN-git/react-native-full-stack-demo-app/blob/master/Screenshot_1735897950.png?raw=true) |
 
-   ```bash
-    npx expo start
-   ```
+| Profile | Detail | Detail |
+|---------|--------|--------|
+| ![Profile](https://github.com/KintheN-git/react-native-full-stack-demo-app/blob/master/Screenshot_1735897953.png?raw=true) | ![Detail](https://github.com/KintheN-git/react-native-full-stack-demo-app/blob/master/Screenshot_1735898134.png?raw=true) | ![Detail](https://github.com/KintheN-git/react-native-full-stack-demo-app/blob/master/Screenshot_1735898145.png?raw=true) |
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+| NotFound |
+|----------|
+| ![NotFound](https://github.com/KintheN-git/react-native-full-stack-demo-app/blob/master/Screenshot_1735898114.png?raw=true) |
